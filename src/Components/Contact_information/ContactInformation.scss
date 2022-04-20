@@ -1,0 +1,18 @@
+.Contact-Information {
+  margin: auto;
+  width: 900px;
+  font-size: 40px;
+  margin-top: 50px;
+
+  .Contact-Information__List {
+    .list__Info {
+      color: white;
+      list-style-type: none;
+
+      .list__Title {
+        color: rgba(12, 102, 236, 0.637);
+        padding-right: 10px;
+      }
+    }
+  }
+}
